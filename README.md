@@ -1,8 +1,9 @@
 ## Hi there 👋
 
-Bonjour,
+Bienvenue sur mon profil GitHub ! Passionné par la programmation et la conception logicielle, je développe mes compétences à travers mes cours, des projets académiques et des projets personnels.
 
-étant actuellement en BTS SIO option SISR à Aubervilliers, je suis avec intérêt ton parcours professionnel en infrastructure/réseaux.
-Je me permets d'ajouter ton profil à mon réseau pour échanger sur le secteur. 
-
-Bonne journée !
+🚀 À propos de moi
+🏫 Formation : BTS SIO option SLAM (Solutions Logicielles et Applications Métiers).
+💡 Spécialité : Développement orienté objet, particulièrement en C#.
+🎯 Objectif : À la recherche d'un stage en développement logiciel.
+🌱 En cours d'apprentissage : C#.
